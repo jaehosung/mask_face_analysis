@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75eeb66e-82e9-4e04-931c-cd07ed371dd0" name="Default Changelist" comment="" />
+    <list default="true" id="75eeb66e-82e9-4e04-931c-cd07ed371dd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2010_6th.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/2010_6th.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2010_6th_backup.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2010_6th_sort.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anthropometric_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/anthropometric_analysis.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +21,12 @@
       </list>
     </option>
   </component>
-  <component name="JupyterTrust" id="3e5573dd-28b4-4c1a-a0cb-d5c48716d242">
-    <option name="files">
-      <option value="anthropometric_analysis.ipynb" />
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="3e5573dd-28b4-4c1a-a0cb-d5c48716d242" />
   <component name="ProjectId" id="1hGJIqhbeVV6JDjya7UAcApaSia" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -42,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599631418385</updated>
       <workItem from="1599631422689" duration="18334000" />
+      <workItem from="1599721953817" duration="5130000" />
     </task>
     <servers />
   </component>
@@ -70,6 +79,10 @@
     </state>
     <state x="464" y="170" key="SettingsEditor/3840.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1599637720622" />
     <state x="4304" y="170" key="SettingsEditor/3840.0.1920.1050/0.0.1920.1050@3840.0.1920.1050" timestamp="1599631585353" />
+    <state x="665" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1599721960967">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="665" y="353" key="com.intellij.ide.util.TipDialog/3840.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1599721960967" />
     <state x="1235" y="161" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599710966561">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
